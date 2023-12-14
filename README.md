@@ -13,7 +13,7 @@
 
 # Releases
 
-## 1.0.0-alpha1 14 December 2023
+## v1.0.0-alpha1 14 December 2023
 
 - inital Release
 - developing interface
