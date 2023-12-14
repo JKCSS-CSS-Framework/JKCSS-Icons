@@ -1,4 +1,4 @@
-<h1 align="center"> JKCSS-Framework Icons </h1>
+<h1 align="center"> JKCSS Icons </h1>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4"></p>
 
 <p align="center">The JKCSS Icons</p>
