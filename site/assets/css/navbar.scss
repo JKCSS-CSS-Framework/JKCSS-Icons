@@ -17,3 +17,12 @@
     margin: 10px 0;
     display: none;
 }
+
+.other-nav{
+    @extend .navbar;
+    height: var(--othernav-height);
+}
+
+.get-nav{
+    @extend .other-nav;
+}

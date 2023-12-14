@@ -1,4 +1,4 @@
-.navbar {
+.navbar, .other-nav, .get-nav {
   background-color: var(--jk-purple);
   height: var(--jk-navheight);
   padding: 50px 0 0 0;
@@ -7,16 +7,20 @@
   color: var(--jk-mfont-color);
 }
 
-.navbar .logo {
+.navbar .logo, .other-nav .logo, .get-nav .logo {
   font-size: var(--title-font);
   font-family: var(--title-font-family);
 }
 
-.navbar .quote {
+.navbar .quote, .other-nav .quote, .get-nav .quote {
   padding-bottom: 40px;
 }
 
 .nav-hr {
   margin: 10px 0;
   display: none;
+}
+
+.other-nav, .get-nav {
+  height: var(--othernav-height);
 }
