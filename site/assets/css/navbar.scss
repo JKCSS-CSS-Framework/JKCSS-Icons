@@ -13,16 +13,19 @@
 .navbar .quote{
     padding-bottom: 40px;
 }
-.nav-hr{
-    margin: 10px 0;
-    display: none;
-}
-
 .other-nav{
     @extend .navbar;
     height: var(--othernav-height);
 }
-
 .get-nav{
+    @extend .other-nav;
+}
+.example-nav{
+    @extend .other-nav;
+}
+.button-nav{
+    @extend .other-nav;
+}
+.column-nav{
     @extend .other-nav;
 }
