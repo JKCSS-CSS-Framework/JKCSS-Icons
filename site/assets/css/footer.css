@@ -49,3 +49,7 @@
   color: var(--jk-mfont-color);
   text-decoration: none;
 }
+
+.footer-hr {
+  display: none;
+}
