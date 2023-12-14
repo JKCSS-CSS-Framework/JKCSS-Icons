@@ -15,7 +15,7 @@
 
 ## v1.0.0-alpha1 14 December 2023
 
-- inital Release
+- initial Release
 - developing interface
 - start the Project
 
