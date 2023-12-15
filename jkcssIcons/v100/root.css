@@ -35,4 +35,5 @@
 .icon-text {
   font-family: var(--jk-site-font);
   font-size: var(--icon-dfont);
+  padding: 5px 0 0 15px;
 }
