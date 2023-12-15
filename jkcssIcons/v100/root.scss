@@ -1,9 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&family=Roboto&display=swap");
+
 :root{
     --hover-blue :rgb(44, 105, 238);
+    --icon-bgc : rgb(238, 238, 238);
 }
 
 .jk{
-    background-color: rgb(238, 238, 238);
+    background-color: var(--icon-bgc);
     font-size: 30px;
     padding: 30px;
     border: none;
