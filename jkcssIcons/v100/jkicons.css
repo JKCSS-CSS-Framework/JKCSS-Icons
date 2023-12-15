@@ -3,6 +3,7 @@
   --hover-blue:rgb(44, 105, 238);
   --icon-bgc:rgb(238, 238, 238);
   --hover-bgc:rgb(240, 240, 240);
+  --hover-bgs:#dfdfdf;
 }
 
 .jk {
@@ -21,7 +22,7 @@
   background-color: var(--hover-bgc);
   color: var(--hover-blue);
   cursor: pointer;
-  box-shadow: 5px 10px 8px 10px #888888;
+  box-shadow: 5px 5px 5px var(--hover-bgs);
 }
 
 .jk-at::before {
