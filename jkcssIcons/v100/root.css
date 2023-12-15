@@ -14,4 +14,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: var(--jk-site-font);
+  transition: 0.4s;
+}
+
+.jk:hover {
+  color: var(--hover-blue);
+  cursor: pointer;
 }
