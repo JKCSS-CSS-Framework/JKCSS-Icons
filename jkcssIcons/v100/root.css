@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit&family=Roboto&display=swap");
 :root {
   --hover-blue:rgb(44, 105, 238);
-  --icon-bgc: rgb(238, 238, 238);
+  --icon-bgc:rgb(238, 238, 238);
+  --hover-bgc:rgb(240, 240, 240);
 }
 
 .jk {
@@ -17,7 +18,7 @@
 }
 
 .jk:hover {
-  background-color: rgb(240, 240, 240);
+  background-color: var(--hover-bgc);
   color: var(--hover-blue);
   cursor: pointer;
 }
