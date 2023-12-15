@@ -313,5 +313,18 @@
 
 .icon-li-cata {
   padding: 0 0 20px 0;
+}
+
+.icon-li-cata li {
+  list-style-type: none;
   margin-left: 10px;
+}
+
+.icon-li-cata li a {
+  text-decoration: none;
+  color: var(--code-blue);
+}
+
+.icon-li-cata li a:hover {
+  font-size: 18px;
 }

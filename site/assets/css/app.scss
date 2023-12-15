@@ -161,8 +161,16 @@
 .icon-li-cata{
     padding: 0 0 20px 0;   
     @extend .inc-align;
+}
+.icon-li-cata li{
+    list-style-type: none;
     margin-left: 10px;
 }
-// .icon-li-cata li{
-    
-// }
+.icon-li-cata li a{
+    text-decoration: none;
+    color: var(--code-blue);
+    transition: 0.5s;
+}
+.icon-li-cata li a:hover{
+    font-size: 18px;
+}
