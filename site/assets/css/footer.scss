@@ -42,11 +42,12 @@
     text-decoration: none;
 }
 
-.footerbar-docs{
-    @extend .footerbar;
-}
 .footer-hr{
     display: none;
+}
+
+.other-footer{
+    @extend .footerbar;
 }
 
 
