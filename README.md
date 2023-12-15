@@ -5,6 +5,9 @@
 
 # Introduction
 
+- This is Icon Framwork of JKCSS
+- The CDN added on v1.0.0 - 15 December 2023 version
+- link for [JKCSS Icons](https://jkcss-css-framework.github.io/JKCSS-Icons/site/content/docs/)
 
 
 # Projects
