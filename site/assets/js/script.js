@@ -18,3 +18,10 @@ fetch('get_nav.html')
 .then(data=>{
     get_nav.innerHTML=data
 });
+
+const icon_nav = document.querySelector('.example-nav')
+fetch('icon_nav.html')
+.then(res=>res.text())
+.then(data=>{
+    icon_nav.innerHTML=data
+});
