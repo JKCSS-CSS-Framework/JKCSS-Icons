@@ -25,7 +25,7 @@
   text-align: center;
 }
 
-.icon-text .jk:hover {
+.jk:hover {
   background-color: var(--hover-bgc);
   color: var(--hover-blue);
   cursor: pointer;
