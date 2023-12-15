@@ -13,6 +13,14 @@
 
 # Releases
 
+## v1.0.0 15 December 2023
+
+- developing interface
+- start the Project
+- adding first icons
+- adding Currency Symbols
+
+
 ## v1.0.0-alpha1 14 December 2023
 
 - initial Release
