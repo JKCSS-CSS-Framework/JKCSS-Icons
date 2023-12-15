@@ -6,6 +6,7 @@
   --hover-bgs:#dfdfdf;
   --jk-site-font: "Roboto", sans-serif;
   --title-font-family: "Kanit", sans-serif;
+  --icon-dfont: 12px;
 }
 
 .jk {
@@ -32,6 +33,7 @@
 
 .icon-text {
   font-family: var(--jk-site-font);
+  font-size: var(--icon-dfont);
 }
 
 .jk-at::before {
