@@ -41,7 +41,3 @@
 .jk-at::before {
   content: "@";
 }
-
-.jk-youtube::before {
-  content: "\f62b";
-}
