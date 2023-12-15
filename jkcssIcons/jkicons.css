@@ -1,0 +1,23 @@
+.jk {
+  background-color: none;
+  font-size: 30px;
+  padding: 10px;
+  border: 1px solid rgb(163, 163, 163);
+  border-radius: 2px;
+  transition: 0.5s;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+}
+
+.jk:hover {
+  background-color: rgb(240, 240, 240);
+}
+
+.jk-at::before {
+  content: "@";
+}
+
+.jk-youtube::before {
+  content: "\f62b";
+}
