@@ -1,1 +1,1 @@
-﻿.jk{background-color:#eee;font-size:30px;padding:30px;border:none;border-radius:2px;transition:.5s;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;display:inline-block}.jk:hover{background-color:#f0f0f0;color:#2c69ee;cursor:pointer}.jk-at::before{content:"@"}.jk-youtube::before{content:""}
+﻿.jk-at::before{content:"@"}.jk-youtube::before{content:""}
