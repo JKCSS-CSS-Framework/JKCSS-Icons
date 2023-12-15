@@ -19,6 +19,7 @@
 - start the Project
 - adding first icons
 - adding Currency Symbols
+- add CDN link
 
 
 ## v1.0.0-alpha1 14 December 2023
