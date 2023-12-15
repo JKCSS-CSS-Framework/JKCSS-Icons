@@ -47,38 +47,38 @@
   content: "1";
 }
 
-.jk-one::before {
+.jk-two::before {
   content: "2";
 }
 
-.jk-one::before {
+.jk-three::before {
   content: "3";
 }
 
-.jk-one::before {
+.jk-four::before {
   content: "4";
 }
 
-.jk-one::before {
+.jk-five::before {
   content: "5";
 }
 
-.jk-one::before {
+.jk-six::before {
   content: "6";
 }
 
-.jk-one::before {
+.jk-seven::before {
   content: "7";
 }
 
-.jk-one::before {
+.jk-eight::before {
   content: "8";
 }
 
-.jk-one::before {
+.jk-nine::before {
   content: "9";
 }
 
-.jk-one::before {
+.jk-0::before {
   content: "0";
 }
