@@ -5,6 +5,8 @@
     --icon-bgc :rgb(238, 238, 238);
     --hover-bgc :rgb(240, 240, 240);
     --hover-bgs :#dfdfdf;
+    --jk-site-font: 'Roboto', sans-serif;
+    --title-font-family: 'Kanit', sans-serif;
 }
 
 .jk{
@@ -26,4 +28,7 @@
     color: var(--hover-blue);
     cursor: pointer;
     box-shadow: 5px 5px 5px var(--hover-bgs)
+}
+.icon-text{
+    font-family: var(--jk-site-font);
 }
