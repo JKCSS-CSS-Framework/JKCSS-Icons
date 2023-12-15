@@ -302,7 +302,7 @@
   margin: 5px;
 }
 
-.inc-align {
+.inc-align, .icon-li-cata {
   display: flex;
   margin-top: 10px;
 }
@@ -313,4 +313,8 @@
 
 .icon-li-cata {
   padding: 0 0 20px 0;
+}
+
+.icon-li-cata li {
+  padding-left: 10px;
 }
