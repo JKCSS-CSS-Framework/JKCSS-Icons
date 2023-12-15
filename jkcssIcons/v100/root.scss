@@ -1,3 +1,7 @@
+:root{
+    --hover-blue :rgb(44, 105, 238);
+}
+
 .jk{
     background-color: rgb(238, 238, 238);
     font-size: 30px;
@@ -11,6 +15,6 @@
 }
 .jk:hover{
     background-color: rgb(240, 240, 240);
-    color: rgb(44, 105, 238);
+    color: var(--hover-blue);
     cursor: pointer;
 }
