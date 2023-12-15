@@ -53,3 +53,7 @@
 .footer-hr {
   display: none;
 }
+
+.other-footer {
+  margin-bottom: -50px;
+}
