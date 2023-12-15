@@ -25,7 +25,7 @@
   text-align: center;
 }
 
-.jk:hover {
+.icon-text .jk:hover {
   background-color: var(--hover-bgc);
   color: var(--hover-blue);
   cursor: pointer;
@@ -35,5 +35,4 @@
 .icon-text {
   font-family: var(--jk-site-font);
   font-size: var(--icon-dfont);
-  text-align: center;
 }
