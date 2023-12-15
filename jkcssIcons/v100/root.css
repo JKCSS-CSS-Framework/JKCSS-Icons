@@ -9,13 +9,15 @@
 .jk {
   background-color: var(--icon-bgc);
   font-size: 30px;
-  padding: 30px;
+  width: 100px;
+  height: 80px;
   border: none;
   border-radius: 2px;
   transition: 0.5s;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: inline-block;
+  text-align: center;
 }
 
 .jk:hover {
