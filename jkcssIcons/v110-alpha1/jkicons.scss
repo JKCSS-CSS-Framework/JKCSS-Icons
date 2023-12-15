@@ -1,0 +1,21 @@
+@import "root";
+
+.jk-dollar::before{ content: "\0024"; }
+.jk-cent::before{ content: "\00A2"; }
+.jk-pound::before{ content: "\00A3"; }
+.jk-currency::before{ content: "\00A4"; }
+.jk-yen::before{ content: "\00A5"; }
+.jk-one::before{ content: "1"; }
+.jk-two::before{ content: "2"; }
+.jk-three::before{ content: "3"; }
+.jk-four::before{ content: "4"; }
+.jk-five::before{ content: "5"; }
+.jk-six::before{ content: "6"; }
+.jk-seven::before{ content: "7"; }
+.jk-eight::before{ content: "8"; }
+.jk-nine::before{ content: "9"; }
+.jk-0::before{ content: "0"; }
+
+
+
+
