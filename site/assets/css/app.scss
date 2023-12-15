@@ -152,3 +152,9 @@
     display: flex;
     margin-top: 10px;
 }
+.icon-cata{
+    padding: 20px 0;
+}
+.icon-title{
+    @extend .icon-cata;
+}

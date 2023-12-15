@@ -306,3 +306,7 @@
   display: flex;
   margin-top: 10px;
 }
+
+.icon-cata, .icon-title {
+  padding: 20px 0;
+}
