@@ -323,8 +323,9 @@
 .icon-li-cata li a {
   text-decoration: none;
   color: var(--code-blue);
+  transition: 0.5s;
 }
 
 .icon-li-cata li a:hover {
-  font-size: 18px;
+  font-size: 17px;
 }
