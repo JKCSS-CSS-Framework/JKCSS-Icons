@@ -160,11 +160,12 @@
 }
 .icon-li-cata{
     padding: 0 0 20px 0;   
-    @extend .inc-align;
+    //@extend .inc-align;
 }
 .icon-li-cata li{
-    list-style-type: none;
+    //list-style-type: none;
     margin-left: 10px;
+    @extend .inc-align;
 }
 .icon-li-cata li a{
     text-decoration: none;

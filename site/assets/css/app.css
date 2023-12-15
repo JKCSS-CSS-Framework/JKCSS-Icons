@@ -302,7 +302,7 @@
   margin: 5px;
 }
 
-.inc-align, .icon-li-cata {
+.inc-align, .icon-li-cata li, .icon-li-cata {
   display: flex;
   margin-top: 10px;
 }
@@ -316,7 +316,6 @@
 }
 
 .icon-li-cata li {
-  list-style-type: none;
   margin-left: 10px;
 }
 
@@ -332,5 +331,5 @@
 
 .nicon-hr {
   width: 50%;
-  padding: 20px 0;
+  margin: 20px 0;
 }
