@@ -302,7 +302,7 @@
   margin: 5px;
 }
 
-.inc-align, .icon-li-cata li {
+.inc-align, .icon-li-cata li, .icon-li-cata {
   display: flex;
   margin-top: 10px;
 }
