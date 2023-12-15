@@ -42,3 +42,7 @@
 .jk-yen::before {
   content: "¥";
 }
+
+.jk-one::before {
+  content: "1";
+}
