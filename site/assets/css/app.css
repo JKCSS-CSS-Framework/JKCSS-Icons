@@ -104,7 +104,6 @@
 
 .other-footer {
   margin-bottom: -50px;
-  padding-top: -50px;
 }
 
 * {
@@ -277,6 +276,5 @@
 
 .inc-align {
   display: flex;
-  justify-content: center; /* Center the buttons horizontally */
   margin-top: 10px;
 }
