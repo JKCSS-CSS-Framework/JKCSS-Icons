@@ -27,7 +27,7 @@ fetch('icon_nav.html')
 });
 
 const currency_nav = document.querySelector('.iconnav-currency')
-fetch('currency_nav.html')
+fetch('../../../../site/content/docs/currency_nav.html')
 .then(res=>res.text())
 .then(data=>{
     currency_nav.innerHTML=data
@@ -35,6 +35,13 @@ fetch('currency_nav.html')
 
 const other_footer = document.querySelector('.other-footer')
 fetch('other_footer.html')
+.then(res=>res.text())
+.then(data=>{
+    other_footer.innerHTML=data
+});
+
+const jkcss_footer = document.querySelector('.other-footer')
+fetch('../../../../site/content/docs/other_footer.html')
 .then(res=>res.text())
 .then(data=>{
     other_footer.innerHTML=data
