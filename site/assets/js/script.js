@@ -26,6 +26,13 @@ fetch('icon_nav.html')
     icon_nav.innerHTML=data
 });
 
+const currency_nav = document.querySelector('.example-nav')
+fetch('icon_nav.html')
+.then(res=>res.text())
+.then(data=>{
+    currency_nav.innerHTML=data
+});
+
 const other_footer = document.querySelector('.other-footer')
 fetch('other_footer.html')
 .then(res=>res.text())
