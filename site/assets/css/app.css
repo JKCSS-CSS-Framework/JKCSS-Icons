@@ -74,7 +74,7 @@
   height: var(--othernav-height);
 }
 
-.footerbar, .other-footer {
+.footerbar, .footer-other, .other-footer {
   margin-top: 100px;
   font-family: var(--title-font-family);
   background-color: var(--jk-purple);
