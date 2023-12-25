@@ -11,13 +11,13 @@
     --icon-dfont-hover: 15px;
 }
 
-.jk{
+.jkicon{
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-family: var(--jk-site-font);
     transition: 0.4s;
 }
-.jk:hover{
+.jkicon:hover{
     color: var(--hover-blue);
     cursor: pointer;
 }
