@@ -20,7 +20,7 @@ fetch('get_nav.html')
 });
 
 const icon_nav = document.querySelector('.example-nav')
-fetch('icon_nav.html')
+fetch('../../../site/content/docs/icon_nav.html')
 .then(res=>res.text())
 .then(data=>{
     icon_nav.innerHTML=data
