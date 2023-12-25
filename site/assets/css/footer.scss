@@ -50,5 +50,8 @@
     @extend .footerbar;
     margin-bottom: -50px;
 }
+.footer-other{
+    @extend .footerbar;
+}
 
 

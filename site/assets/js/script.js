@@ -41,8 +41,8 @@ fetch('other_footer.html')
 });
 
 const jkcss_footer = document.querySelector('.other-footer')
-fetch('../../../../site/content/docs/other_footer.html')
+fetch('../../../../../site/content/docs/other_footer.html')
 .then(res=>res.text())
 .then(data=>{
-    other_footer.innerHTML=data
+    jkcss_footer.innerHTML=data
 });
