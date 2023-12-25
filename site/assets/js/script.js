@@ -26,23 +26,9 @@ fetch('icon_nav.html')
     icon_nav.innerHTML=data
 });
 
-const currency_nav = document.querySelector('.iconnav-currency')
-fetch('../../../../site/content/docs/currency_nav.html')
-.then(res=>res.text())
-.then(data=>{
-    currency_nav.innerHTML=data
-});
-
 const other_footer = document.querySelector('.other-footer')
 fetch('other_footer.html')
 .then(res=>res.text())
 .then(data=>{
     other_footer.innerHTML=data
-});
-
-const jkcss_footer = document.querySelector('.other-footer')
-fetch('../../../../../site/content/docs/other_footer.html')
-.then(res=>res.text())
-.then(data=>{
-    jkcss_footer.innerHTML=data
 });
