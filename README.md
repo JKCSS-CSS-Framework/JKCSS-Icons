@@ -16,10 +16,16 @@
 
 # Releases
 
+## v1.1.0-beta1 24 December 2023
+
+- Developing interface
+- Updating Currency Symbols
+- Add and Updating Numbers (0 - 9)
+- Updating CDN link
+
 ## v1.0.0 15 December 2023
 
 - developing interface
-- start the Project
 - adding first icons
 - adding Currency Symbols
 - add CDN link
