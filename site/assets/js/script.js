@@ -26,8 +26,8 @@ fetch('icon_nav.html')
     icon_nav.innerHTML=data
 });
 
-const currency_nav = document.querySelector('.example-nav')
-fetch('icon_nav.html')
+const currency_nav = document.querySelector('.iconnav-currency')
+fetch('currency_nav.html')
 .then(res=>res.text())
 .then(data=>{
     currency_nav.innerHTML=data
