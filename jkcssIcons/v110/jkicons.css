@@ -102,3 +102,11 @@
 .jk-sound-copyright::before {
   content: "℗";
 }
+
+.jk-black-star::before {
+  content: "★";
+}
+
+.jk-white-star::before {
+  content: "☆";
+}
