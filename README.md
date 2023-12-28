@@ -19,8 +19,7 @@
 ## v1.1.0 28 December 2023
 
 - Developing interface
-- Updating Currency Symbols
-- Add and Updating Numbers (0 - 9)
+- adding copyright and other symbols
 - Updating CDN link
 - Release 1.1.0 beta1 NPM version
 
