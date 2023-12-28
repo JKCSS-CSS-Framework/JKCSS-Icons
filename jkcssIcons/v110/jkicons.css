@@ -95,6 +95,6 @@
   content: "™";
 }
 
-.jk-copyright::before {
-  content: "©";
+.jk-at::before {
+  content: "@";
 }
