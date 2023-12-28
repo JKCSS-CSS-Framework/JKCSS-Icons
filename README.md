@@ -22,7 +22,7 @@
 - adding copyright and other symbols
 - Updating CDN link
 - Release 1.1.0 NPM version
-- fixing some bugs on 
+- fixing some bugs on previous releases
 
 ## v1.1.0-beta1 24 December 2023
 
