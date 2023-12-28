@@ -98,3 +98,7 @@
 .jk-at::before {
   content: "@";
 }
+
+.jk-sound-copyright::before {
+  content: "℗";
+}
