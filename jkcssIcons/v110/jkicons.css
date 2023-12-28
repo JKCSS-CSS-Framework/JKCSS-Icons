@@ -86,3 +86,15 @@
 .jk-copyright::before {
   content: "©";
 }
+
+.jk-registered::before {
+  content: "®";
+}
+
+.jk-copyright::before {
+  content: "©";
+}
+
+.jk-copyright::before {
+  content: "©";
+}
