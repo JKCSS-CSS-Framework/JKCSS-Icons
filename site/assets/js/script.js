@@ -19,12 +19,12 @@ fetch('get_nav.html')
     get_nav.innerHTML=data
 });
 
-const icon_nav = document.querySelector('.example-nav')
-fetch('../../../site/content/docs/icon_nav.html')
-.then(res=>res.text())
-.then(data=>{
-    icon_nav.innerHTML=data
-});
+// const icon_nav = document.querySelector('.example-nav')
+// fetch('../../../site/content/docs/icon_nav.html')
+// .then(res=>res.text())
+// .then(data=>{
+//     icon_nav.innerHTML=data
+// });
 
 const other_footer = document.querySelector('.other-footer')
 fetch('other_footer.html')
