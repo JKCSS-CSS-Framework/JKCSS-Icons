@@ -103,6 +103,14 @@
   content: "℗";
 }
 
+.jk-black-star::before {
+  content: "♀";
+}
+
+.jk-white-star::before {
+  content: "♂";
+}
+
 .jk-female-sign::before {
   content: "♀";
 }
