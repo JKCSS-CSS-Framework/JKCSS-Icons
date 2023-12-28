@@ -104,11 +104,11 @@
 }
 
 .jk-black-star::before {
-  content: "♀";
+  content: "★";
 }
 
 .jk-white-star::before {
-  content: "♂";
+  content: "☆";
 }
 
 .jk-female-sign::before {
