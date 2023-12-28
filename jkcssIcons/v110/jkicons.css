@@ -1,0 +1,84 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Kanit&family=Roboto&display=swap");
+:root {
+  --hover-blue:rgb(44, 105, 238);
+  --icon-bgc:rgb(238, 238, 238);
+  --hover-bgc:rgb(240, 240, 240);
+  --hover-bgs:#dfdfdf;
+  --jk-site-font: "Roboto", sans-serif;
+  --title-font-family: "Kanit", sans-serif;
+  --icon-dfont: 12px;
+  --icon-dfont-hover: 15px;
+}
+
+.jk {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: var(--jk-site-font);
+  transition: 0.4s;
+}
+
+.jk:hover {
+  color: var(--hover-blue);
+  cursor: pointer;
+}
+
+.jk-dollar::before {
+  content: "$";
+}
+
+.jk-cent::before {
+  content: "¢";
+}
+
+.jk-pound::before {
+  content: "£";
+}
+
+.jk-currency::before {
+  content: "¤";
+}
+
+.jk-yen::before {
+  content: "¥";
+}
+
+.jk-one::before {
+  content: "1";
+}
+
+.jk-two::before {
+  content: "2";
+}
+
+.jk-three::before {
+  content: "3";
+}
+
+.jk-four::before {
+  content: "4";
+}
+
+.jk-five::before {
+  content: "5";
+}
+
+.jk-six::before {
+  content: "6";
+}
+
+.jk-seven::before {
+  content: "7";
+}
+
+.jk-eight::before {
+  content: "8";
+}
+
+.jk-nine::before {
+  content: "9";
+}
+
+.jk-0::before {
+  content: "0";
+}
