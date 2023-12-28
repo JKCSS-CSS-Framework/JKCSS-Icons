@@ -91,8 +91,8 @@
   content: "®";
 }
 
-.jk-copyright::before {
-  content: "©";
+.jk-trade-mark::before {
+  content: "™";
 }
 
 .jk-copyright::before {
