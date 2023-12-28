@@ -118,3 +118,15 @@
 .jk-male-sign::before {
   content: "♂";
 }
+
+.jk-six-star::before {
+  content: "✶";
+}
+
+.jk-check::before {
+  content: "♂";
+}
+
+.jk-male-sign::before {
+  content: "♂";
+}
