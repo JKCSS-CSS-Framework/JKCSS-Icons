@@ -21,7 +21,7 @@
 - Developing interface
 - adding copyright and other symbols
 - Updating CDN link
-- Release 1.1.0 beta1 NPM version
+- Release 1.1.0 NPM version
 
 ## v1.1.0-beta1 24 December 2023
 
