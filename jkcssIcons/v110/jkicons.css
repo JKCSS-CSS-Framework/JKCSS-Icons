@@ -124,9 +124,9 @@
 }
 
 .jk-check::before {
-  content: "♂";
+  content: "✓";
 }
 
-.jk-male-sign::before {
-  content: "♂";
+.jk-cross::before {
+  content: "✗";
 }
