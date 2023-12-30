@@ -20,7 +20,7 @@
 
 - Developing interface
 - Updating CDN link
-
+- adding documentation for Icons
 
 ## v1.1.0 28 December 2023
 
