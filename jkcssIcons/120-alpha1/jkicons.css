@@ -130,3 +130,7 @@
 .jk-cross::before {
   content: "✗";
 }
+
+.jk-user-fill {
+  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/user-fill.svg");
+}
