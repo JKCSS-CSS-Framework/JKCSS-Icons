@@ -142,3 +142,7 @@
 .jk-users-fill {
   content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/users-fill.svg");
 }
+
+.jk-users {
+  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/users.svg");
+}
