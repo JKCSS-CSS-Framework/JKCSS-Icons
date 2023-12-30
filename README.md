@@ -21,6 +21,7 @@
 - Developing interface
 - Updating CDN link
 - adding documentation for Icons
+- adding user icons
 
 ## v1.1.0 28 December 2023
 
