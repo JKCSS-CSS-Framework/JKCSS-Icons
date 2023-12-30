@@ -16,7 +16,7 @@
 
 # Releases
 
-## v1.2.0-alpha1 30 December 2023
+## v1.2.0-beta1 30 December 2023
 
 - Developing interface
 - Updating CDN link
