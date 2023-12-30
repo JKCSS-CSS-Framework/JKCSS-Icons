@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&family=Roboto&display=swap");
+:root {
+  --hover-blue:rgb(44, 105, 238);
+  --icon-bgc:rgb(238, 238, 238);
+  --hover-bgc:rgb(240, 240, 240);
+  --hover-bgs:#dfdfdf;
+  --jk-site-font: "Roboto", sans-serif;
+  --title-font-family: "Kanit", sans-serif;
+  --icon-dfont: 12px;
+  --icon-dfont-hover: 15px;
+}
+
+.jk {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: var(--jk-site-font);
+  transition: 0.4s;
+}
+
+.jk:hover {
+  color: var(--hover-blue);
+  cursor: pointer;
+}
