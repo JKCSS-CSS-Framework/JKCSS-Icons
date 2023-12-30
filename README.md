@@ -16,6 +16,13 @@
 
 # Releases
 
+## v1.2.0-alpha1 30 December 2023
+
+- Developing interface
+- adding copyright and other symbols
+- Updating CDN link
+- fixing some bugs on previous releases
+
 ## v1.1.0 28 December 2023
 
 - Developing interface
