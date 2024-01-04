@@ -23,6 +23,9 @@
 - Updataing documentation for Icons
 - fixing some bugs
 - - not for backgroud remove in all user icons
+- - remove all version vice folders
+- - now only one folder
+- adding user friendly responsive navbar
 
 ## v1.2.0-beta1 30 December 2023
 
