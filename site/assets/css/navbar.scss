@@ -1,11 +1,3 @@
-.navbar{
-    background-color: var(--jk-purple);
-    height: var(--jk-navheight);
-    padding: 50px 0 0 0;
-    text-align: center;
-    font-family: var(--jk-site-font);
-    color: var( --jk-mfont-color);    
-}
 .header{
     background-color: #A020F0;
     color: #fff;
@@ -35,30 +27,12 @@
 .header .quote{
     padding-bottom: 40px;
 }
-
-.navbar .logo{
-    font-size: var(--title-font);
-    font-family: var(--title-font-family);
+.other-nav .header{
+    @extend .header;
 }
-.navbar .quote{
-    padding-bottom: 40px;
+.get-nav .header{
+    @extend .header;
 }
-.other-nav{
-    @extend .navbar;
-    height: var(--othernav-height);
-}
-.get-nav{
-    @extend .other-nav;
-}
-.example-nav{
-    @extend .other-nav;
-}
-.iconnav-currency{
-    @extend .other-nav;
-}
-.button-nav{
-    @extend .other-nav;
-}
-.column-nav{
-    @extend .other-nav;
+.example-nav .header{
+    @extend .header;
 }

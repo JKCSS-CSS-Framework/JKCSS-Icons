@@ -1,13 +1,4 @@
-.navbar, .other-nav, .column-nav, .button-nav, .iconnav-currency, .example-nav, .get-nav {
-  background-color: var(--jk-purple);
-  height: var(--jk-navheight);
-  padding: 50px 0 0 0;
-  text-align: center;
-  font-family: var(--jk-site-font);
-  color: var(--jk-mfont-color);
-}
-
-.header {
+.header, .example-nav .header, .get-nav .header, .other-nav .header {
   background-color: #A020F0;
   color: #fff;
   padding: 50px 0;
@@ -37,17 +28,4 @@
 
 .header .quote {
   padding-bottom: 40px;
-}
-
-.navbar .logo, .other-nav .logo, .column-nav .logo, .button-nav .logo, .iconnav-currency .logo, .example-nav .logo, .get-nav .logo {
-  font-size: var(--title-font);
-  font-family: var(--title-font-family);
-}
-
-.navbar .quote, .other-nav .quote, .column-nav .quote, .button-nav .quote, .iconnav-currency .quote, .example-nav .quote, .get-nav .quote {
-  padding-bottom: 40px;
-}
-
-.other-nav, .column-nav, .button-nav, .iconnav-currency, .example-nav, .get-nav {
-  height: var(--othernav-height);
 }
