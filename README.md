@@ -16,6 +16,14 @@
 
 # Releases
 
+## v1.2.0 04 January 2023 - latest
+
+- Developing interface
+- Updating CDN link
+- Updataing documentation for Icons
+- fixing some bugs
+- - not for backgroud remove in all user icons
+
 ## v1.2.0-beta1 30 December 2023
 
 - Developing interface
