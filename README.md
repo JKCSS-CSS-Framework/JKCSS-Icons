@@ -19,13 +19,9 @@
 ## v1.3.0-alpha1 16 January 2024 - latest
 
 - Developing interface
-- Updating CDN link
-- Updataing documentation for Icons
-- fixing some bugs
-- - not for backgroud remove in all user icons
-- - remove all version vice folders
-- - now only one folder
-- adding user friendly responsive navbar
+- fixing bugs
+- not fix all bus still fixing
+- this is an alpha version
 
 ## v1.2.0 04 January 2024
 
