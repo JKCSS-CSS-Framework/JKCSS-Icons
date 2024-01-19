@@ -132,7 +132,7 @@
 }
 
 .jk-user-fill {
-  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/usern-fill.svg");
+  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/user-fill.png");
 }
 
 .jk-user {
@@ -140,11 +140,11 @@
 }
 
 .jk-users-fill {
-  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/usersn-fill.svg");
+  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/users-fill.svg");
 }
 
 .jk-users {
-  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/usersn.svg");
+  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/users.svg");
 }
 
 .jk-user-fill-add {
