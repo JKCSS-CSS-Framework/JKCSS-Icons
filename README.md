@@ -16,14 +16,14 @@
 
 # Releases
 
-## v1.3.0-alpha1 16 January 2024 - latest
+## v1.3.0-alpha1 16 January 2024 
 
 - Developing interface
 - fixing bugs
 - not fix all bus still fixing
 - this is an alpha version
 
-## v1.2.0 04 January 2024
+## v1.2.0 04 January 2024 - latest
 
 - Developing interface
 - Updating CDN link
