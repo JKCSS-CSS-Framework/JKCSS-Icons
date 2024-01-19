@@ -1,7 +1,0 @@
-<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="100" height="100" fill="white"/>
-<path d="M68 70C69.1046 70 70.0104 69.1023 69.9001 68.0033C69.4416 63.4323 67.4192 59.135 64.1421 55.8579C60.3914 52.1071 55.3043 50 50 50C44.6957 50 39.6086 52.1071 35.8579 55.8579C32.5808 59.135 30.5584 63.4323 30.0999 68.0033C29.9896 69.1023 30.8954 70 32 70L50 70H68Z" fill="black"/>
-<circle cx="50" cy="37" r="10" fill="black"/>
-<circle cx="67.5" cy="68.5" r="11" fill="black" stroke="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M68.9196 67L68.9249 61.0776L66.1037 61.0751L66.0984 67H60V70H66.0956L66.0903 75.9871L68.9115 75.9896L68.9169 70H75V67H68.9196Z" fill="white"/>
-</svg>
