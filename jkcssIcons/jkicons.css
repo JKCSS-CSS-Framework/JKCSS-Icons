@@ -136,7 +136,7 @@
 }
 
 .jk-user-fill::before {
-  content: url("");
+  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/user-fill.svg");
 }
 
 .jk-user-plus::before {
