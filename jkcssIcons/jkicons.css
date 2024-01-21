@@ -130,3 +130,7 @@
 .jk-cross::before {
   content: "✗";
 }
+
+.jk-user::before {
+  content: url("");
+}
