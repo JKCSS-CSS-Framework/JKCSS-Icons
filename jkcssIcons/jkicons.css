@@ -132,7 +132,7 @@
 }
 
 .jk-user::before {
-  content: url("");
+  content: url("https://jkcss-css-framework.github.io/JKCSS-Icons/site/assets/svg/user.svg");
 }
 
 .jk-user-fill::before {
