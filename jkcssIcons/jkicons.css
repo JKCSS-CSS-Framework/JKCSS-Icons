@@ -131,7 +131,7 @@
   content: "✗";
 }
 
-.jk-user-fill {
+.jk-user-fill::before {
   content: url("../site/assets/svg/user-fill.svg");
 }
 
