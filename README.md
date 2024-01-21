@@ -16,6 +16,13 @@
 
 # Releases
 
+## v1.3.0 21 January 2024 
+
+- Developing interface
+- Updating the User Icons
+- fixing user Icons
+- Adding Figam file
+
 ## v1.3.0-alpha1 16 January 2024 
 
 - Developing interface
