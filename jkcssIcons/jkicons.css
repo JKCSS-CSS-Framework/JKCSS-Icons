@@ -134,3 +134,15 @@
 .jk-user::before {
   content: url("");
 }
+
+.jk-user-fill::before {
+  content: url("");
+}
+
+.jk-user-plus::before {
+  content: url("");
+}
+
+.jk-user-plus-fill::before {
+  content: url("");
+}
